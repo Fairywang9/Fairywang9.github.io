@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/08/07/%E5%90%AF%E7%A8%8B%EF%BC%81%E2%80%9D/</loc>
+    <loc>https://www.zhihu.com/people/fei-yu-48-38/2020/08/07/%E5%90%AF%E7%A8%8B%EF%BC%81%E2%80%9D/</loc>
     
     <lastmod>2020-08-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/07/test/</loc>
+    <loc>https://www.zhihu.com/people/fei-yu-48-38/2020/08/07/test/</loc>
     
     <lastmod>2020-08-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/06/hello-world/</loc>
+    <loc>https://www.zhihu.com/people/fei-yu-48-38/2020/08/06/hello-world/</loc>
     
     <lastmod>2020-08-06</lastmod>
     
@@ -24,16 +24,16 @@
   
 
   <url>
-    <loc>http://yoursite.com/</loc>
-    <lastmod>2020-08-11</lastmod>
+    <loc>https://www.zhihu.com/people/fei-yu-48-38</loc>
+    <lastmod>2020-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://yoursite.com/tags/%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%88%9D%E5%BF%83/</loc>
-    <lastmod>2020-08-11</lastmod>
+    <loc>https://www.zhihu.com/people/fei-yu-48-38/tags/%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%88%9D%E5%BF%83/</loc>
+    <lastmod>2020-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
